@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @futureKrishna
-- 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Data Structures and algorithms
-- 💞️ I’m looking to collaborate in Learning DSA from Scratch
+- 👀 I’m interested in Software development.
+- 💞️ Let's collaborate to develope some big and exciting projects.
 - 📫 How to reach me - via mail futurekrishna10@gmail.com , +91-9519144642
 
 <!---
